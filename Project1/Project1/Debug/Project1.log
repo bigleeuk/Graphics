@@ -1,0 +1,4 @@
+﻿  moving camera N perspective projection N image mesh.cpp
+c:\users\bigle\source\repos\project1\project1\moving camera n perspective projection n image mesh.cpp(14): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+  Project1.vcxproj -> C:\Users\bigle\source\repos\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\bigle\source\repos\Project1\Debug\Project1.pdb (Partial PDB)
