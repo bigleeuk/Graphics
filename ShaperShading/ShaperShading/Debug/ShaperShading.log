@@ -1,0 +1,5 @@
+﻿  ShaperShading.cpp
+c:\users\bigle\source\repos\shapershading\shapershading\shapershading.cpp(15): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\bigle\source\repos\shapershading\shapershading\shapershading.cpp(44): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+  ShaperShading.vcxproj -> C:\Users\bigle\source\repos\ShaperShading\Debug\ShaperShading.exe
+  ShaperShading.vcxproj -> C:\Users\bigle\source\repos\ShaperShading\Debug\ShaperShading.pdb (Partial PDB)
