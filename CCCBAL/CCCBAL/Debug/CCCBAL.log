@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\bigle\source\repos\cccbal\cccbal\main.cpp(28): warning C4091: 'typedef ': 변수를 선언하지 않으면 'VECTOR' 왼쪽은 무시됩니다.
+c:\users\bigle\source\repos\cccbal\cccbal\main.cpp(55): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Bullet' 왼쪽은 무시됩니다.
+c:\users\bigle\source\repos\cccbal\cccbal\main.cpp(60): warning C4091: 'typedef ': 변수를 선언하지 않으면 'BulletSystem' 왼쪽은 무시됩니다.
+  CCCBAL.vcxproj -> C:\Users\bigle\source\repos\CCCBAL\Debug\CCCBAL.exe
+  CCCBAL.vcxproj -> C:\Users\bigle\source\repos\CCCBAL\Debug\CCCBAL.pdb (Partial PDB)
