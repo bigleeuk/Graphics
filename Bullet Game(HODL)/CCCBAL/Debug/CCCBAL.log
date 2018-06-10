@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\bigle\source\repos\cccbal\cccbal\main.cpp(238): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  CCCBAL.vcxproj -> C:\Users\bigle\source\repos\CCCBAL\Debug\CCCBAL.exe
+  CCCBAL.vcxproj -> C:\Users\bigle\source\repos\CCCBAL\Debug\CCCBAL.pdb (Partial PDB)
